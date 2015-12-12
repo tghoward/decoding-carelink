@@ -1,0 +1,306 @@
+[
+  {
+    "programmed": 1.5,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-11T17:31:55 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-11T17:31:55",
+    "_body": "",
+    "_head": "01003c003c006400",
+    "amount": 1.5,
+    "unabsorbed": 2.5,
+    "duration": 0,
+    "type": "normal",
+    "_date": "f71f316b0f"
+  },
+  {
+    "programmed": 2,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-11T17:30:09 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-11T17:30:09",
+    "_body": "",
+    "_head": "0100500050001400",
+    "amount": 2,
+    "unabsorbed": 0.5,
+    "duration": 0,
+    "type": "normal",
+    "_date": "c91e316b0f"
+  },
+  {
+    "programmed": 1,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-11T15:58:25 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-11T15:58:25",
+    "_body": "",
+    "_head": "0100280028001000",
+    "amount": 1,
+    "unabsorbed": 0.4,
+    "duration": 0,
+    "type": "normal",
+    "_date": "d93a2f6b0f"
+  },
+  {
+    "programmed": 0.5,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-11T14:58:23 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-11T14:58:23",
+    "_body": "",
+    "_head": "0100140014000000",
+    "amount": 0.5,
+    "unabsorbed": 0,
+    "duration": 0,
+    "type": "normal",
+    "_date": "d73a2e6b0f"
+  },
+  {
+    "programmed": 1440.5,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-11T11:30:33 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-11T11:30:33",
+    "_body": "",
+    "appended": [
+      {
+        "_type": "SensorAlert",
+        "_description": "SensorAlert (2011, 0, 23, 19, 0, 46) head[3], body[0] op[0x0b]",
+        "data": {
+          "alarm_type": 15,
+          "alarm_description": "Unknown sensor alarm (15)"
+        },
+        "_body": "",
+        "_head": "0b0f10",
+        "_date": "2e003317eb"
+      },
+      {
+        "_body": "",
+        "_head": "0f0b",
+        "_type": "Base",
+        "_date": "4b0f001601",
+        "_description": "Base (2001, 4, 22, 0, 15, 11) head[2], body[0] op[0x0f]"
+      },
+      {
+        "_body": "",
+        "_head": "eb0f",
+        "_type": "Base",
+        "_date": "0b4b0f3300",
+        "_description": "Base (2000, 1, 19, 15, 11, 11) head[2], body[0] op[0xeb]"
+      },
+      {
+        "_body": "",
+        "_head": "e114",
+        "_type": "Base",
+        "_date": "0b4b0f0016",
+        "_description": "Base (2006, 1, 0, 15, 11, 11) head[2], body[0] op[0xe1]"
+      }
+    ],
+    "_head": "01e1140b4b0f3300",
+    "amount": 72.275,
+    "unabsorbed": 97.275,
+    "duration": 0,
+    "type": "normal",
+    "_date": "e11e0b4b0f"
+  },
+  {
+    "programmed": 1446.65,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-11T08:20:36 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-11T08:20:36",
+    "_body": "",
+    "appended": [
+      {
+        "_body": "",
+        "_head": "4600",
+        "_type": "Base",
+        "_date": "7b02c00008",
+        "_description": "Base (2008, 4, 0, 0, 2, 59) head[2], body[0] op[0x46]"
+      },
+      {
+        "_type": "SensorAlert",
+        "_description": "SensorAlert (2004, 0, 8, 19, 0, 46) head[3], body[0] op[0x0b]",
+        "data": {
+          "alarm_type": 15,
+          "alarm_description": "Unknown sensor alarm (15)"
+        },
+        "_body": "",
+        "_head": "0b0f10",
+        "_date": "2e003368e4"
+      },
+      {
+        "_body": "",
+        "_head": "0508",
+        "_type": "Base",
+        "_date": "4b0f001601",
+        "_description": "Base (2001, 4, 22, 0, 15, 11) head[2], body[0] op[0x05]"
+      },
+      {
+        "_body": "",
+        "_head": "e405",
+        "_type": "Base",
+        "_date": "084b0f3376",
+        "_description": "Base (2006, 1, 19, 15, 11, 8) head[2], body[0] op[0xe4]"
+      },
+      {
+        "_body": "",
+        "_head": "e20a",
+        "_type": "Base",
+        "_date": "084b0f0016",
+        "_description": "Base (2006, 1, 0, 15, 11, 8) head[2], body[0] op[0xe2]"
+      }
+    ],
+    "_head": "01e20a084b0f3300",
+    "amount": 53.075,
+    "unabsorbed": 97.275,
+    "duration": 0,
+    "type": "normal",
+    "_date": "e414084b0f"
+  },
+  {
+    "programmed": 1.7,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-11T07:27:01 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-11T07:27:01",
+    "_body": "",
+    "_head": "0100440044000000",
+    "amount": 1.7,
+    "unabsorbed": 0,
+    "duration": 0,
+    "type": "normal",
+    "_date": "c11b270b0f"
+  },
+  {
+    "programmed": 0.3,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-10T15:14:02 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-10T15:14:02",
+    "_body": "",
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus",
+        "_description": "UnabsorbedInsulinBolus unknown head[14], body[0] op[0x5c]",
+        "data": [
+          {
+            "amount": 0.6,
+            "age": 7
+          },
+          {
+            "amount": 0.7,
+            "age": 267
+          },
+          {
+            "amount": 2,
+            "age": 317
+          },
+          {
+            "amount": 0.5,
+            "age": 337
+          }
+        ],
+        "_body": "",
+        "_head": "5c0e1807c01c0bd0503dd01451d0",
+        "_date": ""
+      }
+    ],
+    "_head": "01000c000c001800",
+    "amount": 0.3,
+    "unabsorbed": 0.6,
+    "duration": 0,
+    "type": "normal",
+    "_date": "c20e2f0a0f"
+  },
+  {
+    "programmed": 0.6,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-10T15:06:56 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-10T15:06:56",
+    "_body": "",
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus",
+        "_description": "UnabsorbedInsulinBolus unknown head[11], body[0] op[0x5c]",
+        "data": [
+          {
+            "amount": 0.7,
+            "age": 260
+          },
+          {
+            "amount": 2,
+            "age": 310
+          },
+          {
+            "amount": 0.5,
+            "age": 330
+          }
+        ],
+        "_body": "",
+        "_head": "5c0b1c04d05036d0144ad0",
+        "_date": ""
+      }
+    ],
+    "_head": "0100180018000000",
+    "amount": 0.6,
+    "unabsorbed": 0,
+    "duration": 0,
+    "type": "normal",
+    "_date": "f8062f0a0f"
+  },
+  {
+    "programmed": 0.7,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-10T10:47:41 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-10T10:47:41",
+    "_body": "",
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus",
+        "_description": "UnabsorbedInsulinBolus unknown head[11], body[0] op[0x5c]",
+        "data": [
+          {
+            "amount": 2,
+            "age": 51
+          },
+          {
+            "amount": 0.5,
+            "age": 71
+          },
+          {
+            "amount": 0.4,
+            "age": 221
+          }
+        ],
+        "_body": "",
+        "_head": "5c0b5033c01447c010ddc0",
+        "_date": ""
+      }
+    ],
+    "_head": "01001c001c004c00",
+    "amount": 0.7,
+    "unabsorbed": 1.9,
+    "duration": 0,
+    "type": "normal",
+    "_date": "e92f2a0a0f"
+  },
+  {
+    "programmed": 2,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-10T09:59:56 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-10T09:59:56",
+    "_body": "",
+    "_head": "0100500050001400",
+    "amount": 2,
+    "unabsorbed": 0.5,
+    "duration": 0,
+    "type": "normal",
+    "_date": "f83b296a0f"
+  },
+  {
+    "programmed": 0.5,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-10T09:37:15 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-10T09:37:15",
+    "_body": "",
+    "_head": "0100140014000400",
+    "amount": 0.5,
+    "unabsorbed": 0.1,
+    "duration": 0,
+    "type": "normal",
+    "_date": "cf25296a0f"
+  }
+]

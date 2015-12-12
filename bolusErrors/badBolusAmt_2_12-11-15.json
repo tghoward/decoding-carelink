@@ -1,0 +1,49 @@
+[
+  {
+    "programmed": 1440.5,
+    "_type": "Bolus",
+    "_description": "Bolus 2015-12-11T11:30:33 head[8], body[0] op[0x01]",
+    "timestamp": "2015-12-11T11:30:33",
+    "_body": "",
+    "appended": [
+      {
+        "_type": "SensorAlert",
+        "_description": "SensorAlert (2011, 0, 23, 19, 0, 46) head[3], body[0] op[0x0b]",
+        "data": {
+          "alarm_type": 15,
+          "alarm_description": "Unknown sensor alarm (15)"
+        },
+        "_body": "",
+        "_head": "0b0f10",
+        "_date": "2e003317eb"
+      },
+      {
+        "_body": "",
+        "_head": "0f0b",
+        "_type": "Base",
+        "_date": "4b0f001601",
+        "_description": "Base (2001, 4, 22, 0, 15, 11) head[2], body[0] op[0x0f]"
+      },
+      {
+        "_body": "",
+        "_head": "eb0f",
+        "_type": "Base",
+        "_date": "0b4b0f3300",
+        "_description": "Base (2000, 1, 19, 15, 11, 11) head[2], body[0] op[0xeb]"
+      },
+      {
+        "_body": "",
+        "_head": "e114",
+        "_type": "Base",
+        "_date": "0b4b0f0016",
+        "_description": "Base (2006, 1, 0, 15, 11, 11) head[2], body[0] op[0xe1]"
+      }
+    ],
+    "_head": "01e1140b4b0f3300",
+    "amount": 72.275,
+    "unabsorbed": 97.275,
+    "duration": 0,
+    "type": "normal",
+    "_date": "e11e0b4b0f"
+  }
+]
